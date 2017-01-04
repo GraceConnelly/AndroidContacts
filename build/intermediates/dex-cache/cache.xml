@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/graceconnelly/Code/20170104_Android/AndroidContacts/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="60b00d823eefedbfab824ba7db236ef7b53aa81d">
+        <dex dex="/Users/graceconnelly/Code/20170104_Android/AndroidContacts/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bbe0ee59cffb0d4151dae8d924d28626dc58a417/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/graceconnelly/Code/20170104_Android/AndroidContacts/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/graceconnelly/Code/20170104_Android/AndroidContacts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_446c4f610a884318e8a63842a9166ebb1a3a0877/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/graceconnelly/Code/20170104_Android/AndroidContacts/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="331b4c7e73f7f1faea28cce09605ba9fe5c934a5">
+        <dex dex="/Users/graceconnelly/Code/20170104_Android/AndroidContacts/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6eddcab92478120b42799bc5e505cf8a441f21af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/graceconnelly/Code/20170104_Android/AndroidContacts/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/graceconnelly/Code/20170104_Android/AndroidContacts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_9f08f6ef0e3af1853111962930e7205848f135bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/graceconnelly/Code/20170104_Android/AndroidContacts/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/graceconnelly/Code/20170104_Android/AndroidContacts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_ff165d1360925f3619618770a175d79f334a7b53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/graceconnelly/Code/20170104_Android/AndroidContacts/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/graceconnelly/Code/20170104_Android/AndroidContacts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_3da34796cf967d2a76cfd0055de22145b7037d08/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/graceconnelly/Code/20170104_Android/AndroidContacts/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/graceconnelly/Code/20170104_Android/AndroidContacts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_3198efe10ba95b8aac6c7b969757583b1d306508/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/graceconnelly/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/graceconnelly/Code/20170104_Android/AndroidContacts/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_5888c54a08ea8a00dd423c4fd52670cad9524dd8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/graceconnelly/Code/20170104_Android/AndroidContacts/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/graceconnelly/Code/20170104_Android/AndroidContacts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_d725bbbbc99eb288642f802d6ae4e6cb5d82f419/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/graceconnelly/Code/20170104_Android/AndroidContacts/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/graceconnelly/Code/20170104_Android/AndroidContacts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_dd05f70ccde3e665036af0241aaa35aa00740ccb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/graceconnelly/Code/20170104_Android/AndroidContacts/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/graceconnelly/Code/20170104_Android/AndroidContacts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_635ed71518f36bd5097eaa38b853c5f4eda9bf63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/graceconnelly/Code/20170104_Android/AndroidContacts/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/graceconnelly/Code/20170104_Android/AndroidContacts/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_efaf9ff7079c607ecac050ba20822cbdb67b2931/classes.dex" />
+    </item>
+
+</items>
